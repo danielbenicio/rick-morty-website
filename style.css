@@ -100,3 +100,8 @@ button:hover{
   white-space: nowrap;
   border-width: 0;
 }
+
+.prev {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
