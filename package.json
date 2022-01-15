@@ -1,0 +1,12 @@
+{
+  "name": "RM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/danielusi/rick-morty-api.git",
+  "author": "Daniel",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0"
+  }
+}
